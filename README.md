@@ -46,7 +46,3 @@ Watching for files changes run the command below
 
 > `npm run test:watch`
 
-To get the test coverage report run the command below
-
-> `npm run coverage`
-

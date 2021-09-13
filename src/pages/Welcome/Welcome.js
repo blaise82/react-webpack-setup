@@ -1,7 +1,7 @@
-import React, { Component } from "react";
+import React from 'react';
 
-export default class componentName extends Component {
-  render() {
-    return <main>#Webpack</main>;
-  }
+export default function Welcome() {
+  return (
+    <main>#Webpack</main>
+  );
 }
